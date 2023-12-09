@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.item item-1{
+	display:flex;
+	justify-content:center;
+	width:100px;
+	height:100px;
+	background-color:red;
+	flex: center;
+}
